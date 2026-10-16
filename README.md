@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [E-Commerce (Capstone)](https://github.com/E-CompanyPH)
 
-- 👨‍💻 All of my projects are available at [https://artpregoner.github.io/ArtPregoner/](https://artpregoner.github.io/ArtPregoner/)
+- 👨‍💻 All of my projects are available at [AJCODEX](https://artpregoner.github.io/ArtPregoner/)
 
 - 📫 How to reach me **ajcoderpregoner34@gmail.com**
 
