@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artpregoner.github.io/ArtPregoner/sitemap.xml

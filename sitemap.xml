@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://artpregoner.github.io/ArtPregoner/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <image:image>
+      <image:loc>https://artpregoner.github.io/ArtPregoner/images/art-javar-pregoner-ajcoder-profile.jpg</image:loc>
+      <image:title>Art Javar Pregoner AJCODER profile</image:title>
+      <image:caption>Art Javar Pregoner (AJCODER), Desktop Support Engineer with a personal interest in web development</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://artpregoner.github.io/ArtPregoner/images/art-javar-pregoner-ajcoder-hero.jpg</image:loc>
+      <image:title>Art Javar Pregoner AJCODER hero image</image:title>
+      <image:caption>Hero banner for Art Javar Pregoner (AJCODER)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://artpregoner.github.io/ArtPregoner/images/ajcoder-og-thumbnail.png</image:loc>
+      <image:title>AJCODER social preview image</image:title>
+      <image:caption>Art Javar Pregoner, AJCODER — Desktop Support Engineer with personal web development projects</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://artpregoner.github.io/ArtPregoner/images/art-javar-pregoner-desktop-support-engineer.jpg</image:loc>
+      <image:title>Art Javar Pregoner Desktop Support Engineer</image:title>
+      <image:caption>IT support workspace representing Art Javar Pregoner's Desktop Support Engineer work</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://artpregoner.github.io/ArtPregoner/images/ajcoder-logo.png</image:loc>
+      <image:title>AJCODER logo</image:title>
+      <image:caption>AJCODER logo for Art Javar Pregoner</image:caption>
+    </image:image>
+  </url>
+</urlset>
